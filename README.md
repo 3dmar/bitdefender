@@ -1,2 +1,2 @@
 # bitdefender
-Bitdefender GravityZone Remote Installation Scripts .ssh 
+Simple Bitdefender GravityZone Remote Installation Scripts .ssh 
